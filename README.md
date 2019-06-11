@@ -3,7 +3,7 @@
 ###### Escuela Técnica Superior de Ingeniería Informática y Telecomunicaciones (Universidad de Granada)  
 
 
-Prácticas de la asignatura *Teoría de la Información y la Codificación* usando Arduino ONE.  
+Prácticas de la asignatura *Teoría de la Información y la Codificación* usando Arduino-Uno.  
 
 **Práctica 1.-** Estudio y construcción de plataforma para envío y recepción de información por láser.   
 **Práctica 2.-** Canales sin ruido. Implementación de códigos Huffman.  
